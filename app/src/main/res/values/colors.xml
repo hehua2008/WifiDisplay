@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="setup_wizard_wifi_color_dark">#89ffffff</color>
+    <color name="setup_wizard_wifi_color_light">#89000000</color>
+    <color name="wifi_signal_color">@color/setup_wizard_wifi_color_light</color>
+</resources>
